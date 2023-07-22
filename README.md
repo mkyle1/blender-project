@@ -1,4 +1,4 @@
-# blender-project
+# Blender Projekt Computeranimation
 Hier werde ich alle Dateien für die Abgabe des Projekts für Computeranimation SS23 hochladen.
 
 ## Inhalt
